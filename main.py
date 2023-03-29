@@ -5,7 +5,7 @@ def hasL(w):
         if w[i] == "l":
             numL = numL + 1
             return True
-        else:
+    else:
             return False
 
 
